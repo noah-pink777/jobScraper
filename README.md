@@ -1,1 +1,1 @@
-# jobScraper-‎ currently‎ exist‎ as‎ a‎ lightweight‎ vibe-coded‎ structure‎ to‎ be‎ built
+# jobScraper-‎ currently‎ exist‎ as‎ a‎ lightweight‎ vibe-coded‎ structure‎ to‎ be‎ built‎ upon‎ further
