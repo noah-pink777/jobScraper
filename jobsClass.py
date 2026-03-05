@@ -1,1 +1,1 @@
-
+#objectifies‎ each‎ job‎ listing‎ as‎ a‎ title‎ element,‎ as‎ well‎ as‎ the‎ job‎ skills‎ as‎ an‎ element‎ that‎ stores‎ each‎ skill‎ into‎ a‎ list‎ element
